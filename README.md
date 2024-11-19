@@ -1,7 +1,3 @@
-Here’s a polished **GitHub README** for you, tailored based on your resume and LinkedIn:
-
----
-
 # 👋 Hi, I'm Mandar Hirphode  
 
 🚀 **Aspiring Data Scientist** with a passion for uncovering insights, solving problems, and driving data-driven decision-making. Currently pursuing an **Advanced Certification in Full Stack Data Science** from IIT Guwahati in collaboration with AlmaBetter, I bring a strong foundation in data analysis, machine learning, and visualization tools.  
@@ -20,7 +16,6 @@ I am a motivated professional with expertise in Python, SQL, Power BI, and Table
 - **Programming Languages:** Python, SQL, R  
 - **Visualization:** Power BI, Tableau, Excel  
 - **Databases:** MySQL, PostgreSQL, MongoDB  
-- **Big Data & Frameworks:** Spark, Hive  
 
 ### **Data Science & Machine Learning**  
 - Supervised & Unsupervised Learning (Regression, Clustering, Decision Trees, Neural Networks)  
@@ -76,8 +71,6 @@ I am a motivated professional with expertise in Python, SQL, Power BI, and Table
 ## 📜 **Certifications**  
 
 - Data Analysis and Visualization – *Accenture (Forage)*  
-- Machine Learning with Python – *Coursera IBM*  
-- Excel Power Tools for Data Analysis – *Coursera*  
 - Google Analytics – *Google*  
 
 ---
