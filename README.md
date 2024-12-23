@@ -89,4 +89,3 @@ I’m always excited to collaborate on projects or discuss ideas in data science
 
 ---
 
-This README is structured to highlight your strengths, showcase projects, and invite connections. Let me know if you want to make any edits!
