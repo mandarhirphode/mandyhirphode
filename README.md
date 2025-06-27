@@ -80,7 +80,7 @@ I am a motivated professional with expertise in Python, SQL, Power BI, and Table
 - **Email:** mandarhirphode@gmail.com  
 - **Phone:** +91-9420662327  
 - **LinkedIn:** [Mandar Hirphode](https://www.linkedin.com/in/mandar-hirphode)  
-- **GitHub:** [mandyhirphode](https://github.com/mandyhirphode)  
+- **GitHub:** [mandarhirphode](https://github.com/mandarhirphode)  
 
 ---
 
